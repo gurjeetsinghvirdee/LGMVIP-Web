@@ -6,7 +6,7 @@
 - CSS
 - JavaScript
 
-2. [User Card]()
+2. [User Card]() (Not Deployed yet)
 #### Tech Stack:
 - React JS
 
