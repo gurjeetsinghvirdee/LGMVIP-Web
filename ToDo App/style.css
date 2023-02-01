@@ -41,6 +41,7 @@ h1 {
 
 .todo-item {
     padding: 10px;
+    display: block;
     border-bottom: 1px solid lightskyblue;
     font-size: 16px;
 }
@@ -52,4 +53,10 @@ h1 {
 .completed {
     text-decoration: line-through;
     color: red;
+}
+
+.done {
+    margin-left: 100px;
+    background-color: rgb(29, 208, 29);
+    color: white;
 }
