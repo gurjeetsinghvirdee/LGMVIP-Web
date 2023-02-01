@@ -1,3 +1,12 @@
 ### LetsGrowMore Web Development Intern Tasks:
 
-- [Todo List](https://lgmvip-web-rho.vercel.app/)
+1. [Todo List](https://lgmvip-web-rho.vercel.app/) <br>
+#### Tech Stack:
+- HTML
+- CSS
+- JavaScript
+
+2. [User Card]()
+#### Tech Stack:
+- React JS
+
